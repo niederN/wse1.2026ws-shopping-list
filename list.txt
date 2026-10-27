@@ -3,5 +3,7 @@ birnen
 bier
 kaffee
 leberkäse
-
+chips
+kaese
+energy
 
