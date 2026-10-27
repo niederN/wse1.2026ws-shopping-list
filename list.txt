@@ -1,2 +1,7 @@
 aepfel
 birnen
+bier
+kaffee
+leberkäse
+
+
