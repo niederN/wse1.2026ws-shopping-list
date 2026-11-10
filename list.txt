@@ -10,3 +10,5 @@ chips
 kaese
 energy
 sprite
+fanta
+
